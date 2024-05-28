@@ -1,0 +1,20 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "image": "https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141036144.jpg",
+    "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+    "description": "A novel about the serious issues of rape and racial inequality told through the eyes of a young girl."
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTk1ODcxNl5BMl5BanBnXkFtZTcwMDI1OTMzOQ@@._V1_FMjpg_UX1000_.jpg",
+    "description": "A novel that explores themes of wealth, excess, and the American dream during the Jazz Age."
+  }
+]
